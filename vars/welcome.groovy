@@ -1,3 +1,3 @@
 def call(name){
-echo " Hey ${name}, Welcome to jenkins shared library example"
+echo " Hey ${name}, Welcome to jenkins shared library examples"
 }
